@@ -26,3 +26,10 @@ The tasks included in this repository cover a range of topics, including:
 
 ## Screenshots
 
+![Task1](screens/part1_1.png)
+![Task2](screens/part2_1.png)
+![Task3](screens/part3_1.png)
+![Task6](screens/part6_1.png)
+![Task7](screens/part7_1.png)
+![Task7](screens/part7_2.png)
+![Task7](screens/part7_3.png)
