@@ -6,8 +6,7 @@ This repository contains a collection of PyTorch tasks aimed to practice at PyTo
 
 1. [Introduction](#introduction)
 2. [Tasks](#tasks)
-3. [Requirements](#requirements)
-4. [Screenshots](#screenshots)
+3. [Screenshots](#screenshots)
 
 ## Introduction
 
